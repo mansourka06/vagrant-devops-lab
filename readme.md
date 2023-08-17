@@ -26,12 +26,12 @@ This script automates the installation of various tools on a Linux system. It su
 
 ### Commands :
 
-1. Clone this repository :
+1. **Clone this repository** :
 ```bash
 git clone https://github.com/mansourka06/vagrant-devops-lab.git
 ```
 
-2. Run the installation : open a terminal and navigate to the directory where the script is located
+2. **Run the installation** : open a terminal and navigate to the directory where the script is located
 ```bash
 vagrant up
 ```
@@ -49,7 +49,7 @@ vagrant up
  - OFF : Disable tool installation
  
 
-3. To shutdown VM use command above :
+3. **To shutdown VM use command above** :
 ```bash
 vagrant halt
 ```
