@@ -36,12 +36,15 @@ git clone https://github.com/mansourka06/vagrant-devops-lab.git
 vagrant up
 ```
 
-* > **NOTE:**
+
+> **NOTE:**
  - Replace the list of packages as needed.
  - The script assumes a CentOS or Red Hat-based distribution.
  - For Jenkins installation, make sure to review Jenkins' official documentation for any additional setup steps.
 
-* > **Available Options:**
+
+
+> **Available Options:**
  - ON : Enable tool installation.
  - OFF : Disable tool installation.
  
